@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "06 June 2002" },
+    {
+      "website": "N/A"
+    },
+    { "phone": "+63 906-145-6801" },
+    { "address": "Ilijan Norte, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 22 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>gabriel123@yahoo.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Ilijan Norte, Tubigon, Bohol, Philippines",
+    "+63 912-345-6789",
+    "<a href='mailto:someone@example.com'>gabriel123@yahoo.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. Information Technology",
+      "year": "2021 - 2024",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2013 - 2019",
+      "school": "Holy Cross Academy",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2009 - 2013",
+      "school": "Avelino Chagas Elementary School",
+      "address": "Ilijan Norte, Tubigon, Bohol"
+    }
+  ]
+}
